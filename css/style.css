@@ -1,0 +1,45 @@
+#navbar{
+    background-color: aqua;
+}
+h1{
+    color: black ;
+    margin-top: 0%;
+    float: left;
+} 
+h2{
+    color: black;
+    margin-top: 3%;
+}
+#text-back{
+    box-shadow: cadetblue;
+    background-color: darkcyan;
+    margin-top: 5%;
+    padding-bottom: 5%;
+
+}
+#text-back > h3
+{
+    padding-top: 5%;
+    color: darkmagenta;
+    margin-bottom: 2%;
+}
+p{
+    text-align: center;
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#list-button{
+    padding: 3px;
+}
+
+.navbar-brand{
+    height: 60px !important;
+}
+.navbar-toggle{
+    background-color: whitesmoke;
+    margin-top: 18px;
+}
+#icon-bar{
+    background-color: black;
+}
